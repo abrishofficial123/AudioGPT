@@ -1,0 +1,5 @@
++ class test(
++     piplic static void sain(stringargs[]){
+           system.out.println("welcome to audioGPT..");
+           }
+)
